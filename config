@@ -1,0 +1,18 @@
+font-family = Maple Mono NF
+font-size = 12
+theme = catppuccin-mocha
+#theme = catppuccin-macchiato
+cursor-style = underline
+window-padding-x = 5
+window-padding-y = 5
+window-height = 45
+window-width = 150
+window-theme = ghostty
+window-padding-balance = true
+window-decoration = true
+focus-follows-mouse = true
+confirm-close-surface = true
+quick-terminal-position = top
+quick-terminal-screen = mouse
+
+keybind = ctrl+t=toggle_quick_terminal
