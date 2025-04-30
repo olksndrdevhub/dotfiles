@@ -1,0 +1,2 @@
+- config - ghostty terminal configuration file
+- config.i3 - i3wm configuration file (place to ~/.config/i3/ and rename to config)
