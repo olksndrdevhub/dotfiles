@@ -1,18 +1,20 @@
-font-family = Maple Mono NF
-font-size = 12
-theme = catppuccin-mocha
-#theme = catppuccin-macchiato
+font-family = Maple Mono NF # https://github.com/subframe7536/maple-font
+font-size = 10
+theme = Catppuccin Mocha
+#theme = Catppuccin Macchiato
 cursor-style = underline
+background-opacity = 0.8
 window-padding-x = 5
 window-padding-y = 5
 window-height = 45
-window-width = 150
+window-width = 100
 window-theme = ghostty
 window-padding-balance = true
-window-decoration = true
+window-decoration = auto
 focus-follows-mouse = true
 confirm-close-surface = true
 quick-terminal-position = top
 quick-terminal-screen = mouse
 
 keybind = ctrl+t=toggle_quick_terminal
+keybind = ctrl+Tab=toggle_tab_overview
